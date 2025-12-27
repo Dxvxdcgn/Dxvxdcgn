@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="David_Github_Banner.gif" alt="David Baker Portfolio Banner" width="100%">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sportschulesilla/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-baker-09b97b207/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@sportschule.silla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/David08130593) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kontakt@david-baker.de) 
